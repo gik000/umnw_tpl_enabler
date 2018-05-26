@@ -1,0 +1,5 @@
+name = Modules TPL enabler
+description = Search for "_tpl_enabler" hook and allow the modules that implement it to have tpl among them folders
+package = Custom
+core = 7.x
+
